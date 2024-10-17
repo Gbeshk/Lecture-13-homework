@@ -1,0 +1,12 @@
+const saxeli = "Giorgi";
+const gvari = "Beshkenadze";
+var asaki = 20;
+const email = "giorgibeshkenadze4@gmail.com";
+const nomeri = "551537703";
+const srulwlovania = true;
+console.log(saxeli);
+console.log(gvari);
+console.log(asaki);
+console.log(email);
+console.log("%c" +nomeri, "color:red");
+console.log("%c" +srulwlovania, "color:yellow");
