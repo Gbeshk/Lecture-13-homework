@@ -8,5 +8,5 @@ console.log(saxeli);
 console.log(gvari);
 console.log(asaki);
 console.log(email);
-console.log("%c" +nomeri, "color:red");
-console.log("%c" +srulwlovania, "color:yellow");
+console.error(nomeri);
+console.warn(srulwlovania);
